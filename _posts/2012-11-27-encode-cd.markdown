@@ -1,0 +1,12 @@
+---
+layout: post
+tags: [cdparanoia, lame, encode, mp3]
+categories: memos
+title: Encode cd in mp3 files in command line 
+---
+
+    $  cdparanoia -B
+    $  for t in track{01..12}*.wav; do lame -b 256 $t; done`
+
+Ref http://www.cyberciti.biz/faq/linux-ripping-and-encoding-audio-files/
+
