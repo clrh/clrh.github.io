@@ -16,7 +16,7 @@ bibliothèques qui contribue à des logiciels libres. Claire Hernandez.
 
 <i class="fa fa-tags"></i> #logicielslibres #agilité #marseille #scrum #facilitation #maman #permaculture #firefoxos #créerdulien
 
-### Credits
+### Crédits
 
 * Blog propulsé par [Jekyll](http://jekyllrb.com) avec [Hyde](https://github.com/poole/hyde) pour la peinture.
 * [Font Awesome](http://fontawesome.io) by Dave Gandy
