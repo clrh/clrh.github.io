@@ -35,7 +35,7 @@ Le truc très positif, c'est que ça reboote très vite ;) hum... Je n'ai pas es
 Ces des petites choses toutes bêtes (qui ont peut être une solution ou un fix récent):
 
 * rechercher dans une page web
-* Faire une pause dans un son quand j'appuie sur le micro de mon casque
+* Faire une pause dans un son quand j'appuie sur le micro de mon casque EDIT [via framasphere](https://framasphere.org/posts/1340128#ca70e0e0896d0133a1da2ae21c0ab87d)
 * Enregistrer la position d'un podcast (ex: je suis à 36 minutes 43 secondes, j'arrive au travail, je veux pouvoir stopper le podcast, et retrouver la position le soir ou le lendemain)
 * Lire et synchroniser mes instapaper
 * Avoir une app netflix et spotify
