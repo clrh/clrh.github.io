@@ -4,7 +4,8 @@ highlighter:         pygments
 
 # Permalinks
 permalink:        /:title/
-relative_permalinks: true
+
+gems: [jekyll-paginate]
 
 # Setup
 title:            "@clrh"

@@ -4,14 +4,15 @@ title: "Le bullet journal ou comment procrastiner plus pour procrastiner moins..
 tags: organisation, carnet de notes, papier, agenda, vide cerveau
 ---
 
-Il y a quelques jours, naviguant "en vrac", [Solange te parle]() m'a fait découvrir ce qu'est le [bullet journal]()!
+Il y a quelques jours, naviguant "en vrac", [Solange te parle](https://www.youtube.com/watch?v=NzkPCut_8cY) m'a fait découvrir ce qu'est le [bullet journal](http://bulletjournal.com/)!
 
 Pour faire simple, c'est un cardre d'organisation de votre carnet de notes papier pour avoir tout au même endroit afin d'essayer d'être mieux organisé dans ta vie de tous les jours. La simplicité de la méthode et son adaptation possible m'a séduit ainsi que le retour au papier alors que ma vie numérique est un peu en bazar.
 
 Vous pouvez vous arrêter là et aller sur le site officiel pour voir les concepts ou alors alors procrastiner comme des fous pour voir comment des personnes en font des oeuvres d'art, voire les deux.
 
 Ce que j'ai retenu et mis en pratique n'est vraiment pas complexe:
-* Prenez un cahier, un carnet de notes : chez moi j'ai trouvé un [oxfort en A5]() pas très cher dans la papèterie du coin, le carnet qui ressort très souvent est le [Lvdv1927]();
+* Prenez un cahier, un carnet de notes : chez moi j'ai trouvé un [oxford "essentials" en A5](http://fr.my-oxford.com/profil-professionnel/essentials) pas cher dans la papèterie du coin, le carnet qui ressort très souvent est le 
+Leuchtturm1917;
 * Dédiez les 3 ou 4 premières pages à l'index de votre "BuJo"
 * Créez ensuite un calendrier annuel avec les événements que vous connaissez
 * Ensuite, un calendrier mensuel du mois en cours sur une page et sur sa page voisine la liste des tâche ou objectifs que vous souhaitez remplir ce mois;
