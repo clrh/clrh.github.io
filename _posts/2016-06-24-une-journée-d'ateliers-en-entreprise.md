@@ -9,6 +9,7 @@ J'ai eu l'opportunité de co-organiser une journée d'ateliers en entreprise (la
 ## Ice breaker
 
 Ice breaker - Constellation
+
 * [Fiche constellation - en](http://www.coachingagileteams.com/2009/08/30/agile/agile-team-start-up/attachment/constellation-exercise/)
 
 ## Ateliers 
@@ -16,32 +17,41 @@ Ice breaker - Constellation
 45 minutes avec 15 minutes de pause entre (3 slots plus 1 "libre")
 
 Mise en situation - Il était une fois un chammallow - co-construire et expérimenter l'échec rapidement
+
 * [Site du marshmallow - en](http://www.marshmallowchallenge.com/)
 
 Mise en situation - Le dilemme du produit - Pourquoi collaborer ? Pourquoi pas ?
+
 * [Fiche de l'atelier - multibao - fr](rhttp://www.multibao.org/#pointbar/play14london/blob/master/X-Y-game.md)
 
 Mise en situation - Medley - C'est en forgeant qu'on devient forgeron
+
 * [Ball point game - en](https://scrumology.com/from-the-archives-the-ball-point-game/)
 * [Penny game - en](https://scrumcoaching.wordpress.com/2010/04/19/the-scrum-penny-game-a-modification/)
 
 Débats & culture - Frise chronologique - S'y retrouver dans les histoires de BibLibre et AFI
+
 * Pas de lien en particulier, la "timeline" est couramment utilisée dans les rétrospectives
 
 Débats & culture - Le parcours des valeurs - Découvrir ce qui motive mes collègues et ce qui me motive
+
 * [Article sur management3.0 - en](https://management30.com/product/moving-motivators/)
 
 Débats & culture - Scierie à pratiques - Comprendre les principes / valeurs / pratiques de l’agilité
+
 * [Fiche de l'atelier - multibao - fr](http://www.multibao.org/#pointbar/contributions/blob/master/scierie-a-pratique.md)
 
 Méthodes & outils - Au bon port - Naviguer à vue dans un projet (speadboat)
+
 * [Fiche de l'atelier - multibao - fr](http://www.multibao.org/#gymkhana-fr/gymkhana-contenu/blob/master/contributions/4_tous-dans-le-meme-bateau.md)
 
 
 Méthodes & outils - Piste de danse - Développer l'empathie pour soir et pour les autres (cnv)
+
 * [Site de l'atelier - en/fr](http://www.nvcdancefloors.com/)
 
 Méthodes & outils - La rétrospective - Connaître un format de réunion à mettre en pratique demain
+
 * [Fiche générale - fr](https://github.com/WolffThomas/perles_gestion_projets/blob/master/contributions/retrospectives.md)
 * [Slides Esther Derby - en](http://fr.slideshare.net/estherderby/agile-retrospectives-4976896)
 * [Article Agilex](http://www.agilex.fr/2012/09/les-3-etapes-de-la-retrospective)
