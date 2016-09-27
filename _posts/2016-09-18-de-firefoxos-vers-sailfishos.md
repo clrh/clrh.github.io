@@ -4,7 +4,7 @@ title: "De FirefoxOS à SailfishOS"
 tags: firefoxos, sailfishos, nexus5
 ---
 
-Si [vous avez](smartphone-firefoxos-commande-ok) [tout](rex-un-mois-firefoxos) [suivi](sauvegarder-et-mettre-a-jour-firefox-os), j'étais depuis plusieurs mois sur FXOS sur mon Nexus5 et c'était plutôt bien. La communauté Mozilla ayant [annoncé sa fin du soutien](https://firefoxos.mozfr.org/post/2016/02/Firefox-OS-passe-des-smartphones-aux-objets-connectes) au projet FirefoxOS, je n'avais plus de mises à jour de build depuis un moment. Le prochain projet [à suivre est B2GOs](https://firefoxos.mozfr.org/post/2016/06/B2G-OS-pour-smartphones-c-est-votre-moment) !
+Si [vous avez]({% post_url 2015-11-14-smartphone-firefoxos-commande-ok%}) [tout]({% post_url 2015-12-19-rex-un-mois-firefoxos%}) [suivi]({% post_url 2016-01-02-sauvegarder-et-mettre-a-jour-firefox-os%}), j'étais depuis plusieurs mois sur FXOS sur mon Nexus5 et c'était plutôt bien. La communauté Mozilla ayant [annoncé sa fin du soutien](https://firefoxos.mozfr.org/post/2016/02/Firefox-OS-passe-des-smartphones-aux-objets-connectes) au projet FirefoxOS, je n'avais plus de mises à jour de build depuis un moment. Le prochain projet [à suivre est B2GOs](https://firefoxos.mozfr.org/post/2016/06/B2G-OS-pour-smartphones-c-est-votre-moment) !
 
 J'avais envie de tester SailfisOS, ce n'est pas complètement libre, il n'y a pas de playstore, son interface est connue pour sa particularité d'utilisation et il existait un build pour mon tel.
 
@@ -18,6 +18,7 @@ $ fastboot flash recovery twrp-3.0.2-0-hammerhead.img
 La couche logicielle en elle même, j'aime beaucoup pour l'instant. Passées les premières heures pour l'avoir en main, la navigation est très fluide et agréable. Concernant les store, il existe un "Jolla store" et un dépôt alternatif "OpenRepos" utilisable avec le client [Warehouse](https://openrepos.net/content/basil/warehouse). J'en suis encore à trouver mes marques avec les applications et explorer les catalogues.
 
 Ce que j'ai gagné:
+
 * un téléphone à l'heure au reboot
 * une superbe petite app d'horloge, chronomètre, heure, décompte
 * un écran que je peux tourner en mode paysage (oui, chez moi sous ffx ça ne marchait pas...)
@@ -26,8 +27,9 @@ Ce que j'ai gagné:
 * quelques compétences en flash de roms de téléphone.
 
 Ce qui me manque aujourd'hui:
-* une application de gps (encore et toujours...)
-* un client Whatsapp qui marche (ben oui, les copines je ne vais pas leur parler de telegram ou autre...)
+
+* une application de gps (encore et toujours...),
+* un client Whatsapp qui marche (ben oui, les copines je ne vais pas leur parler de telegram ou autre... mais j'ai essayé),
 * une app qui permet à mon pc de contrôler mon téléphone,
 * une app qui gère bien wallabag pour lire mon flux framabag.
 
