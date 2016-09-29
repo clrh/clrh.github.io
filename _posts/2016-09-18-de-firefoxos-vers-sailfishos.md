@@ -31,7 +31,11 @@ Ce qui me manque aujourd'hui:
 * une application de gps (encore et toujours...),
 * un client Whatsapp qui marche (ben oui, les copines je ne vais pas leur parler de telegram ou autre... mais j'ai essayé),
 * une app qui permet à mon pc de contrôler mon téléphone,
-* une app qui gère bien wallabag pour lire mon flux framabag.
+* une app qui gère bien wallabag pour lire mon flux framabag
+* un copy/paste limité dans le navigateur (qui se contourne)
+* mettre un fond d'écran custom
+* ni d'envoi ni de réception de mms...
+
 
 Affaire à suive ;)
 
