@@ -4,7 +4,7 @@ title: "De SailfishOS à CyanogenMod - dégoogliser les contacts"
 tags: sailfishos cyanogenmod
 ---
 
-Je continue l'aventure... Certains [manques avec SailfishOS]({% 2016-09-18-de-firefoxos-vers-sailfishos%}) me font essayer autre chose dès maintenant: CyanoGenMod. Un de mes souhait est de ne pas utiliser le play store de Google... Reste donc [F-Droid](f-droid.org) qui est un catalogue d'applications libres pour android.
+Je continue l'aventure... Certains [manques avec SailfishOS]({% post_url 2016-09-18-de-firefoxos-vers-sailfishos %}) me font essayer autre chose dès maintenant: CyanoGenMod. Un de mes souhait est de ne pas utiliser le play store de Google... Reste donc [F-Droid](f-droid.org) qui est un catalogue d'applications libres pour android.
 
 # Dégoogliser les contacts
 
