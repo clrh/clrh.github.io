@@ -52,6 +52,16 @@ done
 
 dashedTitle="`echo ${dashedTitle} | tr '[A-Z]' '[a-z]'`"
 
+echo ""
+read -p "Enter the tags: " tags 
+
+for word in $tags
+do
+    dashedTags=${dashedTags},${word}
+done
+
+dashedTags="`echo ${dashedTags} | tr '[A-Z]' '[a-z]'`"
+
 # Create a filename with the date, dashed title, and format 
 filename="_posts/`date +%Y-%m-%d`${dashedTitle}.${format}"
 
@@ -63,7 +73,7 @@ touch $filename
 echo "---" >> $filename
 echo "layout: ${layout}" >> $filename
 echo "title: \"${title}\"" >> $filename
-echo "tags:" >> $filename
+echo "tags: ${dashedTags} " >> $filename
 echo "---" >> $filename
 echo "" >> $filename
 
