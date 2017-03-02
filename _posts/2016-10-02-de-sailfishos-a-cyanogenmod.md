@@ -11,9 +11,11 @@ Je continue l'aventure... Certains [manques avec SailfishOS]({% post_url 2016-09
 Mes mails et contacts sont sur Google et jusqu'à maintenant ça allait bien. Je peux facilement synchroniser mes mails, mais pour les contacts, je ne trouve pas immédiatement. Je tente donc de trouver une solution alternative.
 
 Mon besoin:
+
 * Synchroniser mes contacts dans une application web et dans mon téléphone, dans les 2 sens.
 
 [Framagenda](http://framagenda.org) permet de consulter et de partager ses agendas, mais aussi ses carnets d’adresses et ses listes de tâches.
+
 * L'interface est sobre et agréable
 * L'utilisation le semble aussi.
 

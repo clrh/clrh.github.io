@@ -5,6 +5,7 @@ tags: juste maman, humeur, kids
 ---
 
 Avec l'école sont arrivés:
+
 * les petits bobos
 * les rhumes à répétition
 * les pantalons troués
@@ -12,6 +13,7 @@ Avec l'école sont arrivés:
 * les levers difficiles
 
 Mais aussi:
+
 * des nouvelles choses apprises sans nous
 * des poches pleines des créations de la journée roulées "en éventail"
 * des récits de moments de vie que nous n'avons pas partagés
