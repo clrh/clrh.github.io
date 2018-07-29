@@ -26,3 +26,4 @@ version:          2.1.0
 theme: jekyll-theme-hydeout
 
 
+baseurl: http://clrh.github.io/
