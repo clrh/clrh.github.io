@@ -11,8 +11,8 @@ gems: [jekyll-paginate]
 title:            "@clrh"
 tagline:          'Claire Hernandez'
 description:      ""
-url:              http://clrh.github.io
-baseurl:          /
+url:              http://clrh.github.io/
+baseurl:          http://clrh.github.io/
 
 author:
   name:           'clrh'
@@ -26,4 +26,3 @@ version:          2.1.0
 theme: jekyll-theme-hydeout
 
 
-baseurl: http://clrh.github.io/
