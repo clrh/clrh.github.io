@@ -40,8 +40,4 @@ Non écoutés:
 
 ### Des chiffres...
 
-https://www.nationalgeographic.fr/environnement/91-des-dechets-plastiques-ne-sont-pas-recycles
-
-> "Sur les 8,3 milliards de tonnes métriques produites, 6,3 milliards se sont transformées en déchets plastiques. Seuls 9 % de ces déchets ont été recyclés. L'immense majorité, soit 79 %, est en train de s'amonceler sur les sites d'enfouissement des déchets ou se répand dans la nature sous forme de détritus." 
-
-> "L'accélération rapide de la production de plastique, qui jusqu'ici doublait environ tous les 15 ans, a devancé presque celle de n'importe quel matériau industriel. Le plastique est d'ailleurs différent de tous les autres matériaux. La moitié de l'acier produit, par exemple, est utilisée dans la construction et dure des décennies. Selon l'étude, la moitié des matières plastiques produites finit en déchets en moins d'un an." 
+https://annuel.framapad.org/p/unindicateurunjour
