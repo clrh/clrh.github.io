@@ -23,5 +23,9 @@ title: Ensemble
 * Festival " Université solidaire et rebelle" @Grenoble
 * FB 36000 communes (*)
 
+### Des outils
+
 * Cahier de doléances
 * Réunions publiques
+* Élection sans candidat
+* Gestion des décisions par consentement
