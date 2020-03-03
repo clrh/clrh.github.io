@@ -18,4 +18,4 @@ Pour moi l'écriture est un moyen de transmettre. L'écrit pose des idées que j
 
 J'ai évidemment une longue liste de projets, je vais devoir me discipliner tout en pensant à moi pour pouvoir prendre soin des autres. Je suis heureuse de me sentir en transition, en apprentissage. Cette année est riche en sortie de la zone de confort et j'ai aussi besoin de la retrouver.
 
-C'est peut être là le début de nouvelles habitudes, ou pas. En tout cas, des expériences qui "marcheront" peut être. Peut importe, elles sont là et il est temps d'aller "bosser" !
+C'est peut être là le début de nouvelles habitudes, ou pas. En tout cas, des expériences qui "marcheront" peut être. Peu importe, elles sont là et il est temps d'aller "bosser" !
